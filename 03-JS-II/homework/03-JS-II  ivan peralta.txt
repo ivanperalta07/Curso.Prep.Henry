@@ -1,0 +1,25 @@
+For:
+For se denomina un bucle, es un comando o instruccion que le permitira a la computadora
+realizar una tarea repetitiva en tanto y cuando nosotros querramos.
+Para poder realizarla necesitaremos definir una variable, poner una condicion a esa variable
+y por ultimo configurar que hara el comando cuando la condicion sea verdadera.
+
+Operadores logicos:
+Los operadores logicos trabajan a la par con los booleanos. estos se encargaran de verificar
+si las condiciones dadas son verdaderas y en consecuencia ejecutara o no los siguientes programas
+
+&&:
+El operador "Y" ("AND") se encargara de verificar si las dos o mas condiciones son verdaderas
+en el caso de que todas las condiciones sean verdaderas tirara un resultado true y ejecutara
+los comandos siguiente si los hubiese, cabe destacar que el programa analizara las condiciones hasta el momento
+en que encuentre un fallo, una vez encontrado no se molestara en seguir analizando las condiciones
+ya que como dijimos para poder dar un valor "true" debera tener todas las condiciones con el mismo resultado
+
+||:
+El operador "O" ("OR") se encargara de buscar entre las condiciones si hay alguna que sea verdadera
+y ejecutara los comandos si los hubiese, en el momento de encontrar aunque sea 1 condicion verdadera,
+ejecutara los comandos.
+
+!:
+El operador "NO" ("NOT") se encargara de lanzar el valor contrario en forma booleana, por lo que nos servira
+en distintos casos.

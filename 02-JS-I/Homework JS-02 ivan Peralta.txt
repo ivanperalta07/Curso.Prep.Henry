@@ -1,0 +1,19 @@
+Las variables es una forma de almacenar valor en algo. 
+ya sea un numero o una palabra para usarlo mas tarde.
+
+Por otra parte un string es una palabra, esta va entre comillas
+y le podemos asignar estas palabras a las variables
+
+Una funcion es un objeto, el cual el programa debera ejecutar tal cual nosotros
+le ordenemos. hay dos tipos, funciones con o sin return. 
+Por lo general estas funciones siempre nos devuelven un valor, pero al escribir
+el comando return, obligamos a que la funcion nos devuelva especificamente lo que queremos
+
+Las delcaraciones "IF" van de la mano con los valores boleanos, con el comando IF
+hacemos que el sistema analice la informacion que le introducimos y la contraste
+con los parametros establecidos. Este nos devolvera un resultado que puede ser
+un true, false, o cualquier cosa que nosotros hayamos establecido.
+
+Los valores booleanos hace referencia al codigo binario (0-1) donde solamente
+existen dos opciones; 0 ó 1, encendido o apagado, true o false. Este nos sirve
+para permitir el acceso o no de diferentes operaciones dependiendo del resultado
